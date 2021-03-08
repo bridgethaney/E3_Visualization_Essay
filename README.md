@@ -1,1 +1,1 @@
-# Earthquakes_Essay
+# Visualization of Eruptions, Earthquakes, and Emissions
