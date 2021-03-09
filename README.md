@@ -14,6 +14,13 @@ The purpose of this project,
 
 #### Audience
 
+### Systematic Architecture
+
+The process of loading, updating, and displaying the data involves the implementation of a secure database and strong website and mapping framework. In the case of this project, rather than the map pulling information directly from the listed programs and resources, it is stored within a postgres database hosted by Axis Maps. The postgres database serves to optimize the data through generalizing locations and removing certain attributes before sending it to the client. When the data is fully stored and condensed, it is loaded into the map and displayed in a timely manner. 
+
+As for the backend website and mapping framework, the structure is primarily built with the JavaScript, and in particular, the Cesium JavaScript Library. To provide a foundation for high functioning and interactive visualizations, the JavaScript 
+
+
 ### User Interface and Experience
 
 In emphasizing interactivity and multi-variable options, the project serves as a controllable and highly explorable hub of information. When viewing the map, the time-lapse automatically begins, cycling through all the data for each month and year. The three specified symbols representative of the eruption, emission, and earthquake data points then appear and move and change size depending on the . In looking at earthquakes, the representative symbol, a blue circle, increases or decreases depending on the magnitude of the earthquake. Only the earthquakes with a level five or over magnitude are featured on the map. The volcanic eruptions are given a 
