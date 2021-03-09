@@ -12,3 +12,7 @@ The Eruptions, Earthquakes, and Emissions project, created by Axis Maps, focuses
 
 #### Audience
 
+### User Interface and Experience
+
+In emphasizing interactivity and multi-feature options, the project serves as a controllable and highly explorable hub of information. When viewing the map, the time-lapse automatically begins, cycling through all the data for each month and year. Three specified symbols that represent eruptions, emissions, and earthquakes appear and fill up the screen with clickable data points that showcase information about each variable. In looking at earthquakes, the representative symbol is a blue circle and increases or decreases depending on the magnitude of the earthquake. Only the earthquakes with a level five or over magnitude are featured on the map. The volcanic eruptions are given a 
+	
