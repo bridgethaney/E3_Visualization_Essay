@@ -2,7 +2,11 @@
 
 <img src="img/Map_Jan_2017.png">
 
-FIGURE 1. Static image of the interactive eruptions, earthquakes, and emissions map created by Axis Maps through the .
+FIGURE 1. Static image of the interactive eruptions, earthquakes, and emissions map created by Axis Map.
+
+### THE PROJECT
+
+[Eruptions, Earthquakes, and Emissions](https://volcano.si.axismaps.io/)
 
 ### INTRODUCTION
 
