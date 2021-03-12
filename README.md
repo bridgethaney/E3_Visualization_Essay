@@ -18,8 +18,11 @@ The purpose, therefore, of this visualization is to showcase in a clear format t
 
 #### General Overview:
 
-- Authors 
--
+- <b>Author:</b> Axis Maps
+- <b>Built for and with:</b> The Smithsonian Institute’s National Museum of Natural History
+- <b>Data:</b> Eruptions, Earthquakes, and Emissions
+- <b>Data Resources:</b> Smithsonian’s Global Volcanism Program and United States Geological Survey (USGS) Earthquake Catalog
+
 
 ### SYSTEMATIC ARCHITECTURE
 
