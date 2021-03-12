@@ -23,6 +23,10 @@ The purpose, therefore, of this visualization is to showcase in a clear format t
 - <b>Data:</b> Eruptions, Earthquakes, and Emissions
 - <b>Data Resources:</b> Smithsonian’s Global Volcanism Program and United States Geological Survey (USGS) Earthquake Catalog
 
+#### Functions
+
+- 
+
 
 ### SYSTEMATIC ARCHITECTURE
 
