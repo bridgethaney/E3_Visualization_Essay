@@ -75,4 +75,4 @@ After analyzing the totality of the project in terms of its purpose, systematic 
 	 
 Affective geovisualizations, as explained within the piece <em>Affective Geovisualizations</em> by Aiken and Craine, can capture the attention of and affect the viewer through "through power of those images...they tug at our hearts to the extent that we may be mobilised to action" (Aiken and Craine, 2006). While this data is not particularly focused on people, the . Aforementioned groups like the residents of impacted areas could 
 
-It seems as though, drawing together these key points, there 
+It seems as though, drawing together these key points, the way that the map porta
