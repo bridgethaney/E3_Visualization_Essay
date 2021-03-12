@@ -6,7 +6,8 @@
 
 ### THE FEATURED PROJECT
 
-[Eruptions, Earthquakes, and Emissions](https://volcano.si.axismaps.io/)
+Map: [Eruptions, Earthquakes, and Emissions](https://volcano.si.axismaps.io/)
+Explanation of Project: [Project Overview](https://www.axismaps.com/projects/smithsonian)
 
 ### INTRODUCTION
 
@@ -16,12 +17,12 @@ When viewing the map, the time lapse of data automatically begins. From 1960 to 
 
 The purpose, therefore, of this visualization is to showcase in a clear format the pervasiveness of natural disasters, like volcanic eruptions and earthquakes, and their effects, like sulfur dioxide emissions. Due to the map being specifically built for the Smithsonian Institute, it can be assumed that it is widely used, well developed, and a credible resource for information. Though the project can be found on a few designated sites, its expansive, global view of different environmental phenomenon can apply to a diverse range of organizations, communities, and individuals. Three target audiences of this information that could benefit from this information are residents near or on impacted areas, government official that 
 
-#### General Overview:
+#### General Overview
 
 - <b>Author:</b> Axis Maps
 - <b>Built for and with:</b> The Smithsonian Institute’s National Museum of Natural History
 - <b>Data:</b> Eruptions, Earthquakes, and Emissions
-- <b>Data Resources:</b> Smithsonian’s Global Volcanism Program and United States Geological Survey (USGS) Earthquake Catalog
+- <b>Data Resources:</b> [Smithsonian’s Global Volcanism Program](https://volcano.si.edu/) and [United States Geological Survey (USGS) Earthquake Catalog](https://earthquake.usgs.gov/fdsnws/event/1/)
 
 #### Functions
 
