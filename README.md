@@ -2,7 +2,7 @@
 
 <img src="img/Map_Jan_2017.png">
 
-<b>FIGURE 1.<b> Static image of the interactive eruptions, earthquakes, and emissions map.
+<b>FIGURE 1.</b> Static image of the interactive eruptions, earthquakes, and emissions map.
 
 ### THE PROJECT
 
