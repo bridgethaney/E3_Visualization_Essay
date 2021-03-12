@@ -41,6 +41,8 @@ As for the website and mapping framework, the structure is primarily built with 
 
 <img src="img/code.png">
 
+<b>FIGURE 2.</b>
+
 
 ### USER EXPERIENCE AND INTERFACE
 
