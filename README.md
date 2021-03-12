@@ -43,7 +43,7 @@ As for the website and mapping framework, the structure is primarily built with 
 
 <b>FIGURE 2.</b> View of the code that runs the map on the browser. It contains a function the passes in the data and .
 
-<img src="img/globe_map_1980.png"  width="700" height="500">
+<img src="img/globe_map_1980.png"  width="700" height="580">
 
 
 ### USER EXPERIENCE AND INTERFACE
