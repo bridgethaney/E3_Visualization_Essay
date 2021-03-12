@@ -68,4 +68,4 @@ In this way, the map could benefit from improving the symbology and making the d
 
 After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to delve establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain the benefits take form through finding the context of the data, realizing the 
 	 
-In not only treating
+Affective geovisualizations, 
