@@ -7,6 +7,7 @@
 ### THE FEATURED PROJECT
 
 Map: [Eruptions, Earthquakes, and Emissions](https://volcano.si.axismaps.io/)
+
 Explanation of Project: [Project Overview](https://www.axismaps.com/projects/smithsonian)
 
 ### INTRODUCTION
