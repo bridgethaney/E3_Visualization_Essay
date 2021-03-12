@@ -53,9 +53,9 @@ The positives of this project overall involve the effective implementation of a 
 
 ### CONS
 
-A more negative result of this project is the blurriness and cluster effect of the data points. While the design of the hosted map is responsive and able to populate the symbols at a quick rate, some of the symbols look graphically lower quality. It is logical that due to several of the phenomenon occur within similar locations that some of the points would overlap. However, without any of the symbols having an outline and 
+A more negative result of this project is the blurriness and cluster effect of the data points. While the design of the hosted map is responsive and able to populate the symbols at a quick rate, some of the symbols look graphically lower quality. It is logical that with several of the phenomenon occurring within similar locations, some of the points would overlap. However, without any of the symbols having a distinct outline, the data visually runs together. There are also some issues where the data points are so small and transparent that they are hard to see. 
 
-In this way, 
+In this way, the map could benefit from improving the symbology and making the data more distinguishable. Even though hovering over the data points shows their information and changes them to white to stand out, it would make it easier to read if the symbols were higher quality and more well-defined. Adding outlines to and increasing opacity of the points provide an overall better user experience and design.  
 
 ### REFLECTION
 
