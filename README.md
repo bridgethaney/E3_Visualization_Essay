@@ -73,6 +73,6 @@ In this way, the map could benefit from improving the symbology and making the d
 
 After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to delve establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain the  take form through finding the context of the data, realizing the 
 	 
-Affective geovisualizations, as explained within the 
+Affective geovisualizations, as explained within the piece <em>Affecive Geovisualizations</em> by Aiken and Craine, can capture the attention of the viewer and affect the "through power of those images...they tug at our hearts to the extent that we may be mobilised to action" (Aiken and Craine, 2006).
 
 It seems as though, drawing together these key points, there 
