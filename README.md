@@ -4,7 +4,7 @@
 
 <b>FIGURE 1.</b> Static image of the interactive eruptions, earthquakes, and emissions map.
 
-### THE PROJECT
+### THE FEATURED PROJECT
 
 [Eruptions, Earthquakes, and Emissions](https://volcano.si.axismaps.io/)
 
