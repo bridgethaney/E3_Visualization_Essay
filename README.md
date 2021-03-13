@@ -70,7 +70,7 @@ In this way, the map could benefit from improving the symbology and making the d
 
 ### REFLECTION
 
-After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain this notion of implicitly  take form through finding the context of the data, defining affective geovisualizations, and 
+After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain this notion of implicit social effects take form through finding the context of the data, defining affective geovisualizations, and 
 
 In observing the context of the data, it can be found that 
 	 
