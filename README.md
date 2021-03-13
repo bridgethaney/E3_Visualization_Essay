@@ -76,6 +76,8 @@ In observing the context of the data and its
 	 
 Affective geovisualizations, as defined within the piece <em>Affective Geovisualizations</em> by Aiken and Craine, are visualizations that can capture the attention of and affect the viewer through the "power of those images...they tug at our hearts to the extent that we may be mobilised to action" (Aiken and Craine, 2006). While the data present within the project is not particularly focused on people, the effects of the eruptions, earthquakes, and emissions can directly impact the livelihoods of those living within the vacinity of the phenomenon. The continuous show of these natural disasters hitting areas across a wide timeline can demonstrate a need to . It is    
 
+As briefly touched on within the introductions, the target audience of this map could involve the residents around or in impacted areas, government officials and workers, and environmental activists.
+
 It seems as though, drawing together these key points, the way that the map portays the data can demonstrate a real need for 
 
 ### REFERENCES
