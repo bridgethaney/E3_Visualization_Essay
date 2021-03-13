@@ -70,10 +70,12 @@ In this way, the map could benefit from improving the symbology and making the d
 
 ### REFLECTION
 
-After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain this notion of implicit social effects take form through finding the context of the data, defining affective geovisualizations, and 
+After analyzing the totality of the project in terms of its purpose, systematic architecture, and methods of visualization, it is now important to establish the grander context and socioeconomic implications of creating and using this kind of map. Some relevant key ideas to explain this notion of implicit social effects take form through finding the context of the data and defining affective geovisualizations. 
 
-In observing the context of the data, it can be found that 
+In observing the context of the data and its 
 	 
-Affective geovisualizations, as defined within the piece <em>Affective Geovisualizations</em> by Aiken and Craine, are visualizations that can capture the attention of and affect the viewer through the "power of those images...they tug at our hearts to the extent that we may be mobilised to action" (Aiken and Craine, 2006). While this data is not particularly focused on people, the effects of the eruptions, earthquakes, and emissions can directly impact the livelihoods of those living within the vacinity of the phenomenon. The continuous show of these natural disasters hitting areas across a wide timeline can   
+Affective geovisualizations, as defined within the piece <em>Affective Geovisualizations</em> by Aiken and Craine, are visualizations that can capture the attention of and affect the viewer through the "power of those images...they tug at our hearts to the extent that we may be mobilised to action" (Aiken and Craine, 2006). While the data present within the project is not particularly focused on people, the effects of the eruptions, earthquakes, and emissions can directly impact the livelihoods of those living within the vacinity of the phenomenon. The continuous show of these natural disasters hitting areas across a wide timeline can demonstrate a need to . It is    
 
 It seems as though, drawing together these key points, the way that the map portays the data can demonstrate a real need for 
+
+### REFERENCES
