@@ -88,7 +88,9 @@ Aitken, S., & Craine, J. (2011). Affective Geovisualisations. The Map Reader, 27
 
 D'Ignazio, C. (2019, April 4). Putting data back into context. Retrieved March 12, 2021, from https://datajournalism.com/read/longreads/putting-data-back-into-context
 
-[No Author]. Axis Maps (n.d.). <em>Earthquakes, Eruptions, and Emissions</em>. Retrieved March 12, 2021, from https://volcano.si.axismaps.io/
+[No Author]. Axis Maps (n.d.). <em>Earthquakes, Eruptions, and Emissions Map</em>. Retrieved March 12, 2021, from https://volcano.si.axismaps.io/
+
+[No Author] Axis Maps (n.d.). <em>Eruptions, Earthquakes, and Emissions Overview. (n.d.)</em>. Retrieved March 12, 2021, from https://www.axismaps.com/projects/smithsonian
 
 [No Author] United States Geological Survey (n.d.). <em>API Documentation - Earthquake Catalog.</em> Retrieved March 12, 2021, from https://earthquake.usgs.gov/fdsnws/event/1/
 
