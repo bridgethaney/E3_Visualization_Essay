@@ -58,7 +58,7 @@ While the visual design of the map can appeal to user experience, the interactiv
 
 ### PROS
 
-The positives of this project overall involve the effective implementation of a responsive map, as well as the actual data. Allowing users to customize their experience with the map and be able to single out certain months and years of the data creates a more advantageous method of research. Instead of having to re-watch the time lapse over and over, it can be paused and switched to different periods. The data itself is also well-organized and defines real-world issues that impact 
+The positives of this project overall involve the effective implementation of a responsive map, as well as the actual data. Allowing users to customize their experience with the map and be able to single out certain months and years of the data creates a more advantageous method of research. Instead of having to re-watch the time lapse over and over, it can be paused and switched to different periods. The data itself is also well-organized and defines real-world issues and disasters that impact ecosystems and lives around the globe.
 
 It is ultimately a well-done map that promotes a more interactive and responsive format.
 
