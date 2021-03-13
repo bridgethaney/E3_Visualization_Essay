@@ -39,7 +39,7 @@ The process of loading, updating, and displaying the data involves the implement
 
 As for the website and mapping framework, the structure is primarily built with JavaScript, including the Cesium JavaScript Library. To provide a foundation for high functioning and interactive visualizations, the map utilizes JavaScript, which passes in the data and grants the ability for users to click on symbols for information and a slider to switch to and from different periods of time. From the code shown in Figure 2, it seems that all the data filters into a function which then populates the points on the map. It saves each piece of relevant information and assigns it to a clickable symbol for display. The Cesium library, more specifically, is used to host the WebGL technology. Instead of only having the default view of the map, WebGL produces a 3D globe view. This gives more options to observe the data in its geographic context.
 
-Overall, when the clients request the site, the destination server responds by providing the map with all its features and data.
+When the clients request the site, the destination server responds by providing the map with all its features and data.
 
 <img src="img/code.png" width="700">
 
