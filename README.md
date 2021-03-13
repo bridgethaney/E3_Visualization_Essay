@@ -86,4 +86,4 @@ Aitken, S., & Craine, J. (2011). Affective Geovisualisations. The Map Reader, 27
 
 D'Ignazio, C. (2019, April 4). Putting data back into context. Retrieved March 12, 2021, from https://datajournalism.com/read/longreads/putting-data-back-into-context
 
-[No Author] <em>Smithsonian Institution</em> (n.d.). Global Volcanism Program. Retrieved March 12, 2021, from https://volcano.si.edu/
+[No Author] Smithsonian Institution (n.d.). <em>Global Volcanism Program</em>. Retrieved March 12, 2021, from https://volcano.si.edu/
