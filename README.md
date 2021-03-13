@@ -31,6 +31,8 @@ The purpose, therefore, of this visualization is to showcase in a clear format t
 - Symbology representing the eruptions, earthquakes, and emissions
 - Slider that allows control of what month and year is being observed
 - Clickable points to show the information of each recorded piece of data, including date, magnitude, or location
+- Ability to adjust zoom level
+- Default view or 3D globe view
 
 
 ### SYSTEMATIC ARCHITECTURE
